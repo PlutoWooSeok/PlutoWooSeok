@@ -12,7 +12,7 @@
 
  
  ### 📝 Language...
-<a href="https://github.com/PlutoWooSeok/Java_codingTest" target="Java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+><a href="https://github.com/PlutoWooSeok/Java_codingTest" target="Java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/PlutoWooSeok/Embeded_software_contest" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
  
  
