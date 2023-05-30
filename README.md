@@ -17,7 +17,9 @@
  
  
 ### 👨‍💻 I studying...
-><a target="HTML5"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+><a href="https://github.com/PlutoWooSeok/Java_codingTest" target="Java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://github.com/PlutoWooSeok/Embeded_software_contest" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a target="HTML5"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a target="Android Studio"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
  
 
