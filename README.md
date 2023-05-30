@@ -14,8 +14,8 @@
  ### 👨‍💻 I studying...
 
 ><a href="https://github.com/thelight0804" target="C"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<a href="https://github.com/thelight0804" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<a href="https://github.com/thelight0804" target="Java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<a href="https://github.com/PlutoWooSeok/Java_codingTest" target="Java"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://thelight0804.notion.site/Python-57e914b69ad549aeb4bff3315a811690" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
  
 ><a href="https://github.com/thelight0804" target="HTML5"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
