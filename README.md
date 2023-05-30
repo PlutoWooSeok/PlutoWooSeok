@@ -1,31 +1,14 @@
-### Hi there 👋
-
-<!--
-**PlutoWooSeok/PlutoWooSeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
-## Hi there!✋ I'm Thelight0804
+## Hi there!✋ I'm PlutoWooSeok
 
  I hope to develop make a convenient life
  
 <div align="left">
  
 ### 📪 I have...
->[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thelight0804@gmail.com)](mailto:thelight0804@gmail.com)
- <a href="https://thelight0804.notion.site/SangHyeon-Park-336e61be5dc24b5c802481edc09a2ef4" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+>[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thelight0804@gmail.com)](mailto:plutoxxx1014@gmail.com)
+ <a href="[https://thelight0804.notion.site/SangHyeon-Park-336e61be5dc24b5c802481edc09a2ef4](https://www.notion.so/e1d4ebd38a2443e59aa08d81a0c6c9d3)" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
  
  ### 👨‍💻 I studying...
