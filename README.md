@@ -8,7 +8,7 @@
  
 ### 📪 I have...
 >[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thelight0804@gmail.com)](mailto:plutoxxx1014@gmail.com)
-  <a href="https://www.notion.so/dev-Note-e1d4ebd38a2443e59aa08d81a0c6c9d3" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="https://lucky-termite-7c1.notion.site/dev-Note-e1d4ebd38a2443e59aa08d81a0c6c9d3" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
  
  ### 📝 Language...
